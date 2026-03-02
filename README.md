@@ -10,7 +10,7 @@ An interactive guide for TechCongress fellows transitioning out of their fellows
 
 ## View the Guide
 
-Visit: [https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)
+Visit: https://yourusername.github.io/your-repo-name/](https://yourusername.github.io/your-repo-name/)](https://techcongress.github.io/Post-Fellowship-Pathways-Guide/
 
 ## About TechCongress
 
