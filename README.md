@@ -10,7 +10,7 @@ An interactive guide for TechCongress fellows transitioning out of their fellows
 
 ## View the Guide
 
-Visit: [https://techcongress.github.io/Post-Fellowship-Pathways-Guide/)/]
+Visit: https://techcongress.github.io/Post-Fellowship-Pathways-Guide/
 ## About TechCongress
 
 [TechCongress](https://www.techcongress.io/) places technologists in Congress to shape tech policy and bridge the gap between technology and government.
